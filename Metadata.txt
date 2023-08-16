@@ -1,0 +1,7 @@
+Metadata notes:
+
+DocumentDate = 
+MainEntity =
+DocumentType = Invoice | Notification
+Category = Utility | Mortgage | Medical | School ...
+ContainsPII = True/False

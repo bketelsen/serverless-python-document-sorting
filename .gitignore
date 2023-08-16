@@ -1,0 +1,4 @@
+output/
+docs/
+*.log
+.DS_Store
